@@ -1,0 +1,29 @@
+.card{
+    margin-left: 850px;
+    margin-top: 200px;
+    width: 100px;
+    height: 100px;
+    box-shadow: 10px 10px;
+}
+
+.card-body {
+    width: 25rem;
+    background-color: black;
+    color: white;
+} 
+
+
+.container-fluid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+button {
+    padding: 10px;
+    border-radius: 25px;
+    background-color: black;
+    color: beige;
+}
+.card-img-top{
+    width: 25rem;
+}
